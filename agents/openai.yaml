@@ -1,0 +1,4 @@
+interface:
+  display_name: "BB 贴图优化"
+  short_description: "优化 Blockbench 重复贴图与 UV，生成保留关键风格的模型副本"
+  default_prompt: "使用 $bb-texture-optimization 优化这个 Blockbench 模型的贴图，生成模型副本和独立 PNG，并验证 UV、骨骼及动画。"
